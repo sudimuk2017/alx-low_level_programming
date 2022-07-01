@@ -2,9 +2,8 @@
 #include <unistd.h>
 
 /**
- * main Entry point
- * Description Unix
- * Return zero
+ * main - Entry point
+ * Return: 1 for better ans. 
  */
 
 int main(void)
