@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * The program end with 0 
+ * main - Entry point
+ *
+ * Return: end 0 (success) 
  */
 
 int main(void)
