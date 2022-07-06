@@ -1,0 +1,26 @@
+#include <unistd.h>
+/**
+ * main - prints _putchar.
+ * Return: zero
+ */
+int _putchar(char a)
+{
+	return (write(1, &a, 1));
+}
+
+int main ()
+{
+
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+
+
+	return 0;
+}
