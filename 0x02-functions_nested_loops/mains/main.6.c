@@ -4,7 +4,7 @@
 /**
  * main
  *
- * Return: Always 0.
+ * Return: zero
  */
 int main(void)
 {
