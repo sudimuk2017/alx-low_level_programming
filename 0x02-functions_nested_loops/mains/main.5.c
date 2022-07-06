@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main
- * Return: Always 0.
+ * main for 5 question
+ * Return zero
  */
 int main(void)
 {
