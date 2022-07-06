@@ -1,1 +1,1 @@
-../holberton.h
+../main.h
