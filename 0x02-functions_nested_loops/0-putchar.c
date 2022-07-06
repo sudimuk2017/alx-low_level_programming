@@ -1,26 +1,19 @@
-#include <unistd.h>
+#include "main.h"
 /**
- * main - prints _putchar.
- * Return: zero
+ * main - prints _putchar
+ *  
+ * return: zero 
  */
-int _putchar(char a)
+int main(void)
 {
-	return (write(1, &a, 1));
-}
+	char a[] = "_putchar";
+	int i;
 
-int main ()
-{
-
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
+	for (i = 0; i < 9; i++)
+	{
+		_putchar(c[i]);
+	}
 	_putchar('\n');
-
-
-	return 0;
+	
+	return (0);
 }
