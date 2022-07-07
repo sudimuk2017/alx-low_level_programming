@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * print_times_table - prints the times table for n.
- * @n: The multiplication table requested.
- * Return: Nothing.
+ * main - prints the times table for n
+ * 
+ * Return: None
  */
 void print_times_table(int n)
 {
