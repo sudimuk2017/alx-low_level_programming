@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
-  * main - sum even fibonacci numbers under 4 million.
-  * Return: Nothing.
+  * main - sum even fibonacci numbers under four milliin
+  *
+  * Return: zero
   */
 int main(void)
 {
